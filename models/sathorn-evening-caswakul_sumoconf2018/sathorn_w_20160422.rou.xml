@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <routes>
-    <vType accel="2.0" decel="1.7" id="Car" length="4.62" minGap="2.373" maxSpeed="12.5" sigma="0.8" speedDev="0.1"/>
+    <vType accel="1.8" decel="1.9" id="Car" length="4.62" minGap="2.373" maxSpeed="12.5" sigma="0.7" speedDev="0.1"/>
     <route id="route1" edges="L10195 L141 L142 L137 L49 L10130 L10189 L30 L10059 L40274 L40407 L40524 L1163 L40173 L40304 L40415 L40453 L40172 L40303 L2584 L900190313"/>
     <route id="route2" edges="L10195 L141 L142 L137 L49 L134 L132 L20149 L30927 L30940 L68 L30523 L522 L30521 L30544 L843"/>
     <route id="route3" edges="L10195 L141 L142 L137 L49 L10130 L10189 L72 L39 L636 L623 L632 L822"/>
